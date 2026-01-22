@@ -25,6 +25,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 https://www.loom.com/share/b8b4fce61cb44905b4504fe8013f87d4 
 
+<video controls src="walkthrough.mp4" title="Title"></video>
+
 <!-- Replace this with whatever GIF tool you used! -->
 
 <!-- Recommended tools:
